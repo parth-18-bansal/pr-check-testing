@@ -1,5 +1,7 @@
 name: PR Checklist Validator
 
+#change to target
+
 on:
   pull_request_target:
     types:
